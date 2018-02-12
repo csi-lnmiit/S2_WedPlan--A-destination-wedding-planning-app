@@ -1,2 +1,2 @@
-# cardview
-Test project for cardview
+#Wed Planner
+A destination wedding planner app
